@@ -1,6 +1,6 @@
 # 📊 Stock Market Risk Analytics Pipeline (Python + AWS)
 
-This project is an **end-to-end data pipeline** built to analyze stock market performance and risk. It uses **Python**, **AWS S3**, **AWS Athena**, and **AWS Lambda** to process, analyze, and visualize the performance of various tech stocks.
+This project is an **data pipeline** built to analyze stock market performance and risk. It uses **Python**, **AWS S3**, **AWS Athena**, and **AWS Lambda** to process, analyze, and visualize the performance of various tech stocks.
 
 ### 🚀 Project Flow
 
@@ -41,7 +41,7 @@ The flow of this pipeline includes multiple stages:
 
 This graph shows the **closing price** of AAPL (Apple) over time.
 
-![AAPL Closing Price](images/closing_price.png)
+![AAPL Closing Price](Simages/closing_price.png)
 
 ---
 
@@ -57,7 +57,7 @@ The daily returns are calculated as the percentage change in the closing price f
 
 Here, we visualize the **50-day** and **200-day moving averages** alongside the stock’s closing price. These moving averages help in identifying trends and smoothing out fluctuations.
 
-![AAPL Moving Averages](images/moving_averages.png)
+![AAPL Moving Averages](images/Stock Price and Moving Averages.png)
 
 ---
 
