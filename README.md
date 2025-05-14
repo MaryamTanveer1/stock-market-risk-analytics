@@ -57,7 +57,7 @@ The daily returns are calculated as the percentage change in the closing price f
 
 Here, we visualize the **50-day** and **200-day moving averages** alongside the stock’s closing price. These moving averages help in identifying trends and smoothing out fluctuations.
 
-![AAPL Moving Averages](images/Stock Price and Moving Averages.png)
+![AAPL Moving Averages](Simages/Moving_Averages.png)
 
 ---
 
