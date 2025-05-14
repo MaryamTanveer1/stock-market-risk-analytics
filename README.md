@@ -34,48 +34,49 @@ The flow of this pipeline includes multiple stages:
 - **Automation**: Use **AWS Lambda** to automate parts of the pipeline, such as uploading results to S3.
 
 ---
-
 ## 📊 Computation Graphs
 
-### 🔹 **Stock Closing Price Over Time**
+### 🔹 **AAPL Closing Price Over Time**
+This graph shows the **closing price** of AAPL stock over time.
 
-This graph shows the **closing price** of AAPL (Apple) over time.
-
-![AAPL Closing Price](Simages/closing_price.png)
+![AAPL Closing Price](images/AAPL%20Closing%20Price.png)
 
 ---
 
-### 🔹 **Stock Daily Returns**
+### 🔹 **Stock Price Comparison**
+This graph compares the **closing prices** of different stocks (AAPL, MSFT, GOOGL, etc.) over time.
 
-The daily returns are calculated as the percentage change in the closing price from the previous day. This graph shows the **daily returns** for AAPL.
+![Stock Price Comparison](images/Stock%20Price%20Comparison.png)
 
-![AAPL Daily Return](images/daily_return.png)
+---
+
+### 🔹 **Daily & Cumulative Return**
+The **Daily Returns** show the percentage change in stock prices from one day to the next, while the **Cumulative Return** shows the compounded growth over time.
+
+![Daily & Cumulative Return](images/Daily%20&%20Cumulative%20Return.png)
+
+---
+
+### 🔹 **Daily Returns**
+This graph shows the **daily returns** for a stock, reflecting the percentage change in its price each day.
+
+![Daily Returns](images/Daily%20Returns.png)
 
 ---
 
 ### 🔹 **Moving Averages (50-day and 200-day)**
+This graph shows the **50-day** and **200-day moving averages** alongside the stock’s closing price.
 
-Here, we visualize the **50-day** and **200-day moving averages** alongside the stock’s closing price. These moving averages help in identifying trends and smoothing out fluctuations.
-
-![AAPL Moving Averages](Simages/Moving_Averages.png)
-
----
-
-### 🔹 **Volatility Over Time**
-
-**Volatility** is calculated based on daily returns, and this graph represents the **annualized volatility** of AAPL stock.
-
-![AAPL Volatility](images/volatility.png)
+![Moving Averages](images/Moving_Averages.png)
 
 ---
 
-### 🔹 **Sharpe Ratio**
+### 🔹 **Stock Closing Price**
+This graph shows the **closing price** of a stock (can be AAPL, MSFT, or others) over time.
 
-The **Sharpe ratio** is a measure of the risk-adjusted return, and this graph represents it over the period under review.
+![Stock Closing Price](images/Stock%20Closing%20Price.png)
 
-![Sharpe Ratio](images/sharpe_ratio.png)
 
----
 
 ## 🧑‍💻 AWS Services Used
 
