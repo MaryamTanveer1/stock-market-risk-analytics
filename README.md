@@ -53,7 +53,7 @@ This graph compares the **closing prices** of different stocks (AAPL, MSFT, GOOG
 ### 🔹 **Daily & Cumulative Return**
 The **Daily Returns** show the percentage change in stock prices from one day to the next, while the **Cumulative Return** shows the compounded growth over time.
 
-![Daily & Cumulative Return](Simages/Daily_Cumulative%20Return.png)
+![Daily & Cumulative Return](Simages/Daily_Commulative_Return.png)
 
 ---
 
@@ -90,7 +90,7 @@ This graph shows the **closing price** of a stock (can be AAPL, MSFT, or others)
 
 The architecture below illustrates the flow of data from **Yahoo Finance** to the final **stock market risk analysis** stored on AWS.
 
-![Architecture](images/architecture.png)
+![Architecture](Simages/Architecture.png)
 
 ---
 
