@@ -53,7 +53,7 @@ This graph compares the **closing prices** of different stocks (AAPL, MSFT, GOOG
 ### 🔹 **Daily & Cumulative Return**
 The **Daily Returns** show the percentage change in stock prices from one day to the next, while the **Cumulative Return** shows the compounded growth over time.
 
-![Daily & Cumulative Return](Simages/Daily%20&%20Cumulative%20Return.png)
+![Daily & Cumulative Return](Simages/Daily_Cumulative%20Return.png)
 
 ---
 
