@@ -1,0 +1,24 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Ignore credentials (never store secrets in GitHub!)
+*.pem
+*.key
+*.env
+
+# Ignore AWS credentials if ever placed in project
+.aws/
+
+# Ignore test/output data
+/tmp/
