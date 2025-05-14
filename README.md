@@ -39,42 +39,42 @@ The flow of this pipeline includes multiple stages:
 ### 🔹 **AAPL Closing Price Over Time**
 This graph shows the **closing price** of AAPL stock over time.
 
-![AAPL Closing Price](images/AAPL%20Closing%20Price.png)
+![AAPL Closing Price](Simages/AAPL%20Closing%20Price.png)
 
 ---
 
 ### 🔹 **Stock Price Comparison**
 This graph compares the **closing prices** of different stocks (AAPL, MSFT, GOOGL, etc.) over time.
 
-![Stock Price Comparison](images/Stock%20Price%20Comparison.png)
+![Stock Price Comparison](Simages/Stock%20Price%20Comparison.png)
 
 ---
 
 ### 🔹 **Daily & Cumulative Return**
 The **Daily Returns** show the percentage change in stock prices from one day to the next, while the **Cumulative Return** shows the compounded growth over time.
 
-![Daily & Cumulative Return](images/Daily%20&%20Cumulative%20Return.png)
+![Daily & Cumulative Return](Simages/Daily%20&%20Cumulative%20Return.png)
 
 ---
 
 ### 🔹 **Daily Returns**
 This graph shows the **daily returns** for a stock, reflecting the percentage change in its price each day.
 
-![Daily Returns](images/Daily%20Returns.png)
+![Daily Returns](Simages/Daily%20Returns.png)
 
 ---
 
 ### 🔹 **Moving Averages (50-day and 200-day)**
 This graph shows the **50-day** and **200-day moving averages** alongside the stock’s closing price.
 
-![Moving Averages](images/Moving_Averages.png)
+![Moving Averages](Simages/Moving_Averages.png)
 
 ---
 
 ### 🔹 **Stock Closing Price**
 This graph shows the **closing price** of a stock (can be AAPL, MSFT, or others) over time.
 
-![Stock Closing Price](images/Stock%20Closing%20Price.png)
+![Stock Closing Price](Simages/Stock%20Closing%20Price.png)
 
 
 
